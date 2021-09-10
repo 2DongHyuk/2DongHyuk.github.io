@@ -19,8 +19,8 @@ export default function Card() {
           />
         </div>
         <div className="text-center mt-5">
-          <Name name="Jaemyun Lee" />
-          <Position title="Software Engineer" />
+          <Name name="starbucks" />
+          <Position title="coffee" />
           <div className="flex justify-center mt-4">
             <div className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-gray-800 hover:bg-gray-800 rounded-full hover:text-white ">
               <FaCode />
